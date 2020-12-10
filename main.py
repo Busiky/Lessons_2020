@@ -2,6 +2,7 @@ def my_superfunction():
     print('What an awesome print!')
     print(1)
     print('I`m an Author!!!')
+    print('Merge')
 
 
 def main():
